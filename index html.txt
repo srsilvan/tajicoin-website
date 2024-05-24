@@ -3,31 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tajicoin - The Future of Memecoins</title>
+    <title>Tajicoin</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to Tajicoin</h1>
-        <p>The next big thing in the memecoin universe!</p>
+        <h1>Bem-vindo ao Tajicoin</h1>
     </header>
     <main>
-        <section id="about">
-            <h2>About Tajicoin</h2>
-            <p>Tajicoin (TAJ) is a revolutionary memecoin designed to bring joy and value to the crypto community. Join us and be part of the fun!</p>
-        </section>
-        <section id="roadmap">
-            <h2>Roadmap</h2>
-            <ul>
-                <li>Q1 2024: Launch and Airdrop</li>
-                <li>Q2 2024: Exchange Listings</li>
-                <li>Q3 2024: Community Events</li>
-                <li>Q4 2024: Tajicoin Marketplace</li>
-            </ul>
-        </section>
+        <p>O futuro das criptomoedas está aqui!</p>
     </main>
     <footer>
-        <p>&copy; 2024 Tajicoin. All rights reserved.</p>
+        <p>&copy; 2024 Tajicoin. Todos os direitos reservados.</p>
     </footer>
     <script src="script.js"></script>
 </body>
