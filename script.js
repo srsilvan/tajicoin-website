@@ -1,1 +1,1 @@
-console.log('Welcome to Tajicoin!');
+// Adicione seu JavaScript aqui
