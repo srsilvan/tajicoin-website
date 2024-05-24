@@ -1,1 +1,2 @@
-git push origin main
+git add index.html style.css script.js
+git commit -m "Adicionar arquivos iniciais do site"
